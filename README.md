@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://github.com/udaygiri/blog-preview-card))
+- Solution URL: [Add solution URL here](https://github.com/udaygiri/blog-preview-card)
 - Live Site URL: [Add live site URL here](https://blog-preview-card-seven-smoky.vercel.app/)
 
 ### Built with
